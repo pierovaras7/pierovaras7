@@ -1,7 +1,8 @@
 👋 ¡Hola! Soy Piero Varas
 
 💻 Desarrollador Backend & Full Stack
-📍 Trujillo, Perú | [LinkedIn](https://linkedin.com/in/varasp7) | [[Portfolio](https://varasp7-dev.vercel.app/)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) https://varasp7-dev.vercel.app/
+📍 Trujillo, Perú | [LinkedIn](https://linkedin.com/in/varasp7)
 
 Soy egresado de Ingeniería de Sistemas con un enfoque en Desarrollo Backend Web, con experiencia en **Laravel y Spring Boot**. Me apasiona la creación de aplicaciones escalables y optimizadas, utilizando buenas prácticas de desarrollo y metodologías ágiles.  
 
