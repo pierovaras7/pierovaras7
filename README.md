@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 ¡Hola! Soy Piero Varas
 
-<!--
-**pierovaras7/pierovaras7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Backend & Full Stack
+📍 Trujillo, Perú | [LinkedIn](https://linkedin.com/in/varasp7) | [Portfolio]  
 
-Here are some ideas to get you started:
+Soy egresado de Ingeniería de Sistemas con un enfoque en Desarrollo Backend Web, con experiencia en **Laravel y Spring Boot**. Me apasiona la creación de aplicaciones escalables y optimizadas, utilizando buenas prácticas de desarrollo y metodologías ágiles.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+- **Backend:** Laravel, Spring Boot, Django  
+- **Frontend:** Next.js, React, Svelte  
+- **Bases de datos:** PostgreSQL, MySQL, SQL Server  
+- **Herramientas:** Git, Power BI, APIs RESTful  
+
+📫 **Contáctame:**  
+✉️ varaspiero19@gmail.com  
+📱 +51 996 125 850  
+
+---
+
